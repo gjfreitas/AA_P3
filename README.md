@@ -8,7 +8,7 @@ Resumo:
 Neste projeto, realizado no âmbito da unidade curricular Algoritmos Avançados (40751), procuramos utilizar 3 métodos, Exact Counter, Probabilistic Counter (de probabilidade fixa) e Lossy Counter, para estudar as letras mais frequentes num ficheiro de texto, avaliando cada um destes métodos através de várias métricas como a exatidão e o erro quadrático médio. A partir dos resultados obtidos foi possível concluir que, caso não nos deparemos com problemas de memória, o método de Exact Counter é a melhor abordagem, visto retornar sempre os valores exatos. No entanto, caso estejamos perante um problema de memória ou em risco de o estar, ambos os métodos de Probabilistic Counter e Lossy Counter, são boas abordagens, pois apresentam resultados suficientemente satisfatórios e com um tempo de execução não muito mais elevado que o método Exact Counter.
 
 
-Conteúdos do ficheiro .zip - Trabalho 3
+Conteúdos:
 
 	- Pasta 'codigos' com os ficheiros .py com o código para a resolução deste problema
 		-> lossy_counter.py - Método 'Lossy Counter'
